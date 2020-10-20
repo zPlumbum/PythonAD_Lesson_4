@@ -1,5 +1,5 @@
 import unittest
-from main import get_person, add_document, del_document
+from Task_1 import get_person, add_document, del_document
 
 
 class TestDocuments(unittest.TestCase):
